@@ -63,3 +63,7 @@ This module exposes endpoints for creating, reading, updating and deleting patie
 * `POST /api/patients/<int:id>/add_medical_record` to list patient medical record.
 * `PUT /api/patients/<int:id>/edit_medical_record/<int:record_id>` to edit a patient medical record.
 * `DEL /api/patients/<int:id>/delete_medical_record/<int:record_id>` to delete a patient medical record.
+
+### DB
+
+![DB Sketch](https://github.com/Chrisdanyk/openimis-be-patient_management_py/blob/main/assets/PatientData%20Diagram.png "Optional title")
